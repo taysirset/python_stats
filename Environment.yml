@@ -16,3 +16,7 @@ dependencies:
     - pandas
     - statsmodels
     - seaborn
+    - urllib
+    - os
+    - statsmodels.formula.api
+    - matplotlib.pyplot
