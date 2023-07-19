@@ -1,4 +1,4 @@
-# Conda environment with environment.yml
+# Python stats project environment
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taysirset/python_stats.git/HEAD)
 
